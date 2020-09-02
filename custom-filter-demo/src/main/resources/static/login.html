@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form method="post" action="/login">
+    <input type="text" name="username"/><br/>
+    <input type="password" name="password"/><br/>
+    <div style="display: inline-block">
+        <input type="text" name="code"  required placeholder="验证码" />
+        <img alt="验证码" onclick="this.src='/kaptcha.jpg'" src="/kaptcha.jpg" />
+        <a>看不清？点击图片刷新一下</a>
+    </div>
+    </br>
+    <input type="submit" value="登录">
+</form>
+</body>
+</html>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/custom-filter-demo/custom-filter-demo.iml" filepath="$PROJECT_DIR$/custom-filter-demo/custom-filter-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3/demo3.iml" filepath="$PROJECT_DIR$/demo3/demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demousernamepasswordauthenticationfilter.iml" filepath="$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demousernamepasswordauthenticationfilter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handwritingauthentication/handwritingauthentication.iml" filepath="$PROJECT_DIR$/handwritingauthentication/handwritingauthentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springsecuritydemo.iml" filepath="$PROJECT_DIR$/springsecuritydemo.iml" />
+    </modules>
+  </component>
+</project>
