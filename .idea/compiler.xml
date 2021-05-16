@@ -6,17 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="custom-filter-demo" />
         <module name="demo3" />
         <module name="handwritingauthentication" />
-        <module name="demo2" />
+        <module name="custom-filter-demo" />
+        <module name="demo_usernamepasswordauthenticationfilter" />
+        <module name="demo1-quitstart" />
         <module name="demousernamepasswordauthenticationfilter" />
+        <module name="demo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="custom-filter-demo" target="1.8" />
+      <module name="demo1-quitstart" target="1.8" />
       <module name="demo2" target="1.8" />
       <module name="demo3" target="1.8" />
+      <module name="demo_usernamepasswordauthenticationfilter" target="1.8" />
       <module name="demousernamepasswordauthenticationfilter" target="1.8" />
       <module name="handwritingauthentication" target="1.8" />
       <module name="springsecuritydemo" target="1.8" />
@@ -25,8 +29,10 @@
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="custom-filter-demo" options="-parameters" />
+      <module name="demo1-quitstart" options="-parameters" />
       <module name="demo2" options="-parameters" />
       <module name="demo3" options="-parameters" />
+      <module name="demo_usernamepasswordauthenticationfilter" options="-parameters" />
       <module name="demousernamepasswordauthenticationfilter" options="-parameters" />
       <module name="handwritingauthentication" options="-parameters" />
       <module name="springsecuritydemo" options="-parameters" />
