@@ -3,7 +3,8 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/custom-filter-demo/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo1-quitstart/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/demo2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo2-form-authentication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo2-formlogin/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demo3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/demousernamepasswordauthenticationfilter/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/handwritingauthentication/src/main/java" charset="UTF-8" />

@@ -4,7 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/custom-filter-demo/custom-filter-demo.iml" filepath="$PROJECT_DIR$/custom-filter-demo/custom-filter-demo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1-quitstart/demo1-quitstart.iml" filepath="$PROJECT_DIR$/demo1-quitstart/demo1-quitstart.iml" />
-      <module fileurl="file://$PROJECT_DIR$/demo2/demo2.iml" filepath="$PROJECT_DIR$/demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2-form-authentication/demo2-form-authentication.iml" filepath="$PROJECT_DIR$/demo2-form-authentication/demo2-form-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo2-formlogin/demo2-formlogin.iml" filepath="$PROJECT_DIR$/demo2-formlogin/demo2-formlogin.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo3/demo3.iml" filepath="$PROJECT_DIR$/demo3/demo3.iml" />
       <module fileurl="file://$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demo_usernamepasswordauthenticationfilter.iml" filepath="$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demo_usernamepasswordauthenticationfilter.iml" />
       <module fileurl="file://$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demousernamepasswordauthenticationfilter.iml" filepath="$PROJECT_DIR$/demousernamepasswordauthenticationfilter/demousernamepasswordauthenticationfilter.iml" />

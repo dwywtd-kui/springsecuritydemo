@@ -8,17 +8,19 @@
         <outputRelativeToContentRoot value="true" />
         <module name="demo3" />
         <module name="handwritingauthentication" />
+        <module name="demo2-form-authentication" />
         <module name="custom-filter-demo" />
         <module name="demo_usernamepasswordauthenticationfilter" />
+        <module name="demo2-formlogin" />
         <module name="demo1-quitstart" />
         <module name="demousernamepasswordauthenticationfilter" />
-        <module name="demo2" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="custom-filter-demo" target="1.8" />
       <module name="demo1-quitstart" target="1.8" />
-      <module name="demo2" target="1.8" />
+      <module name="demo2-form-authentication" target="1.8" />
+      <module name="demo2-formlogin" target="1.8" />
       <module name="demo3" target="1.8" />
       <module name="demo_usernamepasswordauthenticationfilter" target="1.8" />
       <module name="demousernamepasswordauthenticationfilter" target="1.8" />
@@ -30,7 +32,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="custom-filter-demo" options="-parameters" />
       <module name="demo1-quitstart" options="-parameters" />
-      <module name="demo2" options="-parameters" />
+      <module name="demo2-form-authentication" options="-parameters" />
+      <module name="demo2-formlogin" options="-parameters" />
       <module name="demo3" options="-parameters" />
       <module name="demo_usernamepasswordauthenticationfilter" options="-parameters" />
       <module name="demousernamepasswordauthenticationfilter" options="-parameters" />
